@@ -1,4 +1,4 @@
-# n26-metrics
+# n26
 The main use case for our API is
 to calculate real time statistic from the last 60 seconds. There will be two APIs, one of
 them is called every time a transaction is made. It is also the sole input of this rest
